@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoverController</string>
+    <string name="title_activity_network">NetworkActivity</string>
+</resources>
